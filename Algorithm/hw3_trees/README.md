@@ -25,7 +25,7 @@
 1. **克隆本專案**
 
    ```bash
-   git clone https://github.com/IDK-Silver/NUTN-CSIE-Code.git
+   git clone https://github.com/yufeng-kano/NUTN-CSIE-Code.git
    cd NUTN-CSIE-Code/Algorithm/hw3_trees/
    ```
 

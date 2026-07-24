@@ -2,7 +2,7 @@
 
 ## clone repository & move the this folder
 ```
-git clone https://github.com/IDK-Silver/NUTN-CSIE-Code.git
+git clone https://github.com/yufeng-kano/NUTN-CSIE-Code.git
 cd ./NUTN-CSIE-Code/Probability/boxplto
 ```
 

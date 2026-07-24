@@ -9,7 +9,7 @@ fi
 if [ -d "lib/big_int" ]; then
     echo "Directory 'lib/big_int' already exists. Skipping clone."
 else
-    git clone https://github.com/IDK-Silver/big-int.git lib/big_int
+    git clone https://github.com/yufeng-kano/big-int.git lib/big_int
 fi
 
 cd lib/big_int

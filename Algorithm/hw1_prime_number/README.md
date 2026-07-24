@@ -54,7 +54,7 @@
 #### 克隆本專案並執行安裝腳本
 
 ```bash
-git clone https://github.com/IDK-Silver/NUTN-CSIE-Code.git
+git clone https://github.com/yufeng-kano/NUTN-CSIE-Code.git
 cd NUTN-CSIE-Code/Algorithm/hw1_prime_number
 ```
 

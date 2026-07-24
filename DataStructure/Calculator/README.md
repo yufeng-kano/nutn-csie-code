@@ -44,7 +44,7 @@
 
 * Download Source Code
 ```
-git clone https://github.com/IDK-Silver/NUTN_Code.git
+git clone https://github.com/yufeng-kano/NUTN_Code.git
 ```
 * Install CMake
 ```

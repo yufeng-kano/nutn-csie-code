@@ -9,7 +9,7 @@
 %   across a full iteration, or max iterations are reached.
 %
 % Author:     Yu-Feng
-% Repository: https://github.com/IDK-Silver/NUTN-CSIE-Code/tree/main/Digital%20Image%20Processing/Midterm_Project/
+% Repository: https://github.com/yufeng-kano/NUTN-CSIE-Code/tree/main/Digital%20Image%20Processing/Midterm_Project/
 %
 % Input:
 %   - Image files specified in 'image_names', located in 'search_dirs'.

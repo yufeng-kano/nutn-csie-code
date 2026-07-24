@@ -2,7 +2,7 @@
 
 **作者:** Yu-Feng
 
-**程式碼連結:** [點擊此處查看專案程式碼](https://github.com/IDK-Silver/NUTN-CSIE-Code/tree/main/Digital%20Image%20Processing/Midterm_Project/)
+**程式碼連結:** [點擊此處查看專案程式碼](https://github.com/yufeng-kano/NUTN-CSIE-Code/tree/main/Digital%20Image%20Processing/Midterm_Project/)
 
 ## 專案描述
 

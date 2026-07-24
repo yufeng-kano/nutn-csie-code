@@ -27,7 +27,7 @@
 取得原始碼：
 
 ```bash
-git clone https://github.com/IDK-Silver/NUTN-CSIE-Code.git
+git clone https://github.com/yufeng-kano/NUTN-CSIE-Code.git
 cd NUTN-CSIE-Code
 ```
 
@@ -42,11 +42,11 @@ cd NUTN-CSIE-Code
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=IDK-Silver/NUTN-CSIE-Code&type=Date)](https://star-history.com/#IDK-Silver/NUTN-CSIE-Code&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=yufeng-kano/NUTN-CSIE-Code&type=Date)](https://star-history.com/#yufeng-kano/NUTN-CSIE-Code&Date)
 
 ## 授權
 
-作者：黃毓峰 (IDK-Silver)
+作者：黃毓峰 (yufeng-kano)
 
 此專案為國立臺南大學資工系課程作業與專案程式碼。
 
