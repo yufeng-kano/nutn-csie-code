@@ -8,7 +8,7 @@ dependencies = [
     "matlabengine==24.2.2",
     "matplotlib>=3.10.3",
     "numpy>=2.3.0",
-    "pillow>=11.2.1",
+    "pillow>=12.3.0",
     "pytesseract>=0.3.13",
     "python-levenshtein>=0.27.1",
 ]
